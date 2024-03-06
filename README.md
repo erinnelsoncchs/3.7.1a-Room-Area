@@ -1,6 +1,7 @@
 # 3.7.1a-Room-Area
 Video on this assignment: https://drive.google.com/file/d/18ukwZ93yiK89qVos4ynRbG_7jhcQUZhB/view?usp=sharing
-At this link: https://replit.com/team/CCHS-Computer-Programming/371a-Room-Area
+
+
 Instructions
 
 
